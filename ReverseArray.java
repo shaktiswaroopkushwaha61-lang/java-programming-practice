@@ -1,8 +1,8 @@
 package Methods;
 import java.util.*;
-public class reverceArrayc {
+public class ReverceArray {
 
-    static void main(String[] args)
+     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the no of element");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class repitoninarray {
-    static void main(String[] args) {
+public class RepitonInArray {
+     public static void main(String[] args) {
 
         boolean flag = true;
         Scanner sc = new Scanner(System.in);

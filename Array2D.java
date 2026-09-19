@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Array2D {
-    static void main(String[] args)
+  public  static void main(String[] args)
     {
         Scanner sc= new Scanner(System.in);
         System.out.print("enter the number of rows:");

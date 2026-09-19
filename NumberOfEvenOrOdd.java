@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class NumberOfEvenOrOdd
 {
-    static void main(String[] args)
+     public static void main(String[] args)
     {
         System.out.println("enter number of element to be entered in an array ");
         Scanner sc =new Scanner(System.in);
